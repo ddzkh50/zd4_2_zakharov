@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">pr17_zalharov</string>
+
+    <string name="crime_list_title">CriminalIntent</string>
+    <string name="crime_add">Add crime</string>
+    <string name="crime_clear">Clear list</string>
+    <string name="crime_no_title">(No title)</string>
+    <string name="crime_list_solved">Solved</string>
+    <string name="crime_list_unsolved">Not solved</string>
+    <string name="crime_list_no_suspect">No suspect</string>
+    <string name="crime_list_suspect">Suspect: %s</string>
+
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+
+    <string name="crime_suspect_text">Choose suspect</string>
+    <string name="crime_report_text">Send crime report</string>
+    <string name="crime_call_text">Call suspect</string>
+
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect</string>
+    <string name="crime_report_suspect">the suspect is %s</string>
+    <string name="crime_report_subject">CriminalIntent</string>
+    <string name="send_report">Send crime report</string>
+    <string name="no_contacts_permission">No permission to read contacts</string>
+    <string name="empty_title_warning">Enter a title for the crime</string>
+</resources>
